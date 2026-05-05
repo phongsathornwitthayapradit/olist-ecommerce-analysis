@@ -48,9 +48,9 @@ customers --> orders --> order_items --> products
 | **Database** | SQLite, DBeaver |
 | **Languages** | SQL, Python, R |
 | **Python Libraries** | pandas, numpy, matplotlib, seaborn, scikit-learn |
-| **R Libraries** | tidyverse, ggplot2, caret |
+<!-- | **R Libraries** | tidyverse, ggplot2, caret |
 | **BI Dashboard** | Power BI |
-| **Version Control** | Git, GitHub |
+| **Version Control** | Git, GitHub | -->
 
 ---
 
